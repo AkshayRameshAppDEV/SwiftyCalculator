@@ -9,11 +9,15 @@ An iOS calculator app which has the following characteristics:
 
 **Language Used**: Swift 5
 
-*Responsive Layout across different screen sizes*
+**Highlights:** 
+  1. Auto Layout (Embedding in Stack views - Linear & Horizontal and their constraints and distributions)
+  2. More TO GO!!!
+
+***Responsive Layout across different screen sizes***
 
 <img src="https://github.com/AkshayRameshAppDEV/SwiftyCalculator/blob/master/Responsive-Layout.png" alt="Bin2Dec Application Running" width="500" height="500">
 
 
 ## Video of the Application
 
- **************** UNDER CONSTRUCTION ****************
+ **************** UNDER CONSTRUCTION - Stay Tuned :D ****************
